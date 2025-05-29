@@ -53,5 +53,7 @@ A curated collection of my personal and academic projects involving **Python**, 
 4. Refer to the PDF files for proposal, report, and milestone documentation.
 
 ---
+## 📊 Dashboard Preview
 
+![Dashboard Screenshot]([Dashboard%20Overview.png](https://github.com/BananiIITM/Projects/blob/main/Dashboard%20Overview.png))
 
