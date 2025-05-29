@@ -55,5 +55,5 @@ A curated collection of my personal and academic projects involving **Python**, 
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot]([Dashboard%20Overview.png](https://github.com/BananiIITM/Projects/blob/main/Dashboard%20Overview.png))
+![Dashboard Screenshot](https://github.com/BananiIITM/Projects/blob/main/Dashboard%20Overview.png)
 
