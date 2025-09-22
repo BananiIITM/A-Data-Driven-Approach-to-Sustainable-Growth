@@ -6,7 +6,7 @@ A curated collection of my personal and academic projects involving **Python**, 
 
 ## 🗂️ Project List
 
-### 1. **Raj Fashion Sales Dashboard**
+### 1. **A Data-Driven Approach to Sustainable Growth**
 - **Description:** A complete data analysis and visualization project for a fashion retail company, covering sales trends, inventory, and customer insights.
 - **Files:**
   - `Raj Fashion_Sales_Data.xlsx` – Raw sales and inventory data
